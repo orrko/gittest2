@@ -16,7 +16,11 @@
 
 //this is a comment in the new Branch
 
+
 //this is a commen tin the master
+
+//this is a new comment in the new Branch2
+
 
 @interface ViewController ()
 
